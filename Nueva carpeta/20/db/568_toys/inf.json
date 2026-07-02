@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Caja aritmética (Kern Rechenkasten)"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Contador"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "10/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://de.wikipedia.org/wiki/Rechenkasten"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "10/1/25 19:40"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "10/1/25 19:40"
+        }
+    ],
+    "main_title": "Caja aritmética (Kern Rechenkasten)",
+    "sub_title": "",
+    "thumbnail_big": "db/568_toys/thumbnail_big",
+    "thumbnail_mini": "db/568_toys/thumbnail_small"
+}

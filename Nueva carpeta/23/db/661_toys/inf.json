@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "P y A (Jean-Claude Constantin)"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "04/08/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.logicajuegos.es/p-y-a"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "4/8/25 19:58"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "4/8/25 19:58"
+        }
+    ],
+    "main_title": "P y A (Jean-Claude Constantin)",
+    "sub_title": "",
+    "thumbnail_big": "db/661_toys/thumbnail_big",
+    "thumbnail_mini": "db/661_toys/thumbnail_small"
+}

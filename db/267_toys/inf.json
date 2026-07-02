@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Otis King Model K (D1681)"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Reino Unido"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "26/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.svpal.org/~dickel/OK/OtisKing.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "26/2/24 19:04"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "26/2/24 19:04"
+        }
+    ],
+    "main_title": "Otis King Model K (D1681)",
+    "sub_title": "",
+    "thumbnail_big": "db/267_toys/thumbnail_big",
+    "thumbnail_mini": "db/267_toys/thumbnail_small"
+}

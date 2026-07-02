@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Graphoplex 615 Caltex"
+        },
+        {
+            "name": "Marca",
+            "value": "Graphoplex"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Francia"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "09/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/HSRC/GRAPHOPLEX.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/24 14:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "9/2/24 20:12"
+        }
+    ],
+    "main_title": "Graphoplex 615 Caltex",
+    "sub_title": "Graphoplex",
+    "thumbnail_big": "db/128_toys/thumbnail_big",
+    "thumbnail_mini": "db/128_toys/thumbnail_small"
+}

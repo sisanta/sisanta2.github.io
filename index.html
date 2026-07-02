@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Numento 2 Mobile</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <link rel="stylesheet" href="res/css/index.css?d41d8cd98f00b204e9800998ecf8427e">
+
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+	<style type="text/css">
+
+</style>
+<script>
+
+   function deviceOS() {
+        var useragent = navigator.userAgent;
+
+        if(useragent.match(/Android/i)) {
+            return 'android';
+        } else if(useragent.match(/webOS/i)) {
+            return 'webos';
+        } else if(useragent.match(/iPhone/i)) {
+            return 'iphone';
+        } else if(useragent.match(/iPod/i)) {
+            return 'ipod';
+        } else if(useragent.match(/iPad/i)) {
+            return 'ipad';
+        } else if(useragent.match(/Windows Phone/i)) {
+            return 'windows phone';
+        } else if(useragent.match(/SymbianOS/i)) {
+            return 'symbian';
+        } else if(useragent.match(/RIM/i) || useragent.match(/BB/i)) {
+            return 'blackberry';
+        } else {
+            return false;
+        }
+    }
+
+    
+document.addEventListener("DOMContentLoaded", function() {
+    if (deviceOS()==false)
+    {
+      var path = window.parent.location.pathname;
+      var page = path.split("/").pop();
+      if (page!="index_desktop.html")
+      {
+             var node = document.querySelector('a.link_desktop_version');
+            node.style.display="flex";
+      }
+    }
+});
+
+if (location.hostname.length==0)
+{
+  alert("Este sitio sólo funciona si se publica en un servidor web");
+}
+
+</script>
+
+</head>
+<body>
+
+<a class="link_desktop_version" href="index_desktop.html">Versión para ordenador</a>
+
+<section class="logo">
+  <img  style="width:40vw;" src="res/img/logo_text.png">
+</section>
+
+
+  
+
+    <a class="item" href='listing_d33fb387_b015_423f_9cc2_e44c35ebd9da/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_d33fb387_b015_423f_9cc2_e44c35ebd9da/listing_icon"></div>
+      <div class='item_label'>Mi colección</div>
+      <div class='item_counter'>763</div>
+    </a>
+
+  
+
+  
+
+    <a class="item" href='listing_8157b19b_3681_43fb_ad9f_948a4057a24b/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_8157b19b_3681_43fb_ad9f_948a4057a24b/listing_icon"></div>
+      <div class='item_label'>Ordenados por tipo</div>
+      <div class='item_counter'>763</div>
+    </a>
+
+  
+
+  
+
+    <a class="item" href='listing_f63b22b6_8455_41c0_aa46_d4e37dd869d7/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_f63b22b6_8455_41c0_aa46_d4e37dd869d7/listing_icon"></div>
+      <div class='item_label'>Marcas</div>
+      <div class='item_counter'>763</div>
+    </a>
+
+  
+
+  
+
+    <a class="item" href='listing_53808a7d_6c6d_4615_a82d_dd8db60bffe4/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_53808a7d_6c6d_4615_a82d_dd8db60bffe4/listing_icon"></div>
+      <div class='item_label'>País</div>
+      <div class='item_counter'>763</div>
+    </a>
+
+  
+
+
+
+</body>
+</html>

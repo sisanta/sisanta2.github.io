@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Hanayama Cast Coil"
+        },
+        {
+            "name": "Marca",
+            "value": "Hanayama"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "06/04/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.juegosbesa.com/es/hanayamas/732-hanayama-coil.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "6/4/26 17:47"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "6/4/26 17:50"
+        }
+    ],
+    "main_title": "Hanayama Cast Coil",
+    "sub_title": "Hanayama",
+    "thumbnail_big": "db/740_toys/thumbnail_big",
+    "thumbnail_mini": "db/740_toys/thumbnail_small"
+}

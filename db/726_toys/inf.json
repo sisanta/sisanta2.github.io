@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Ábaco"
+        },
+        {
+            "name": "Marca",
+            "value": "Tomoe Soroban"
+        },
+        {
+            "name": "Tipo",
+            "value": "Calculadora"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "19/03/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://es.wikipedia.org/wiki/%C3%81baco"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "19/3/26 17:27"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "19/3/26 17:28"
+        }
+    ],
+    "main_title": "Ábaco",
+    "sub_title": "Tomoe Soroban",
+    "thumbnail_big": "db/726_toys/thumbnail_big",
+    "thumbnail_mini": "db/726_toys/thumbnail_small"
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 cubo vacío / Void Cube"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "23/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://es.wikipedia.org/wiki/Void_Cube"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "23/3/24 21:35"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "23/3/24 21:35"
+        }
+    ],
+    "main_title": "3x3x3 cubo vacío / Void Cube",
+    "sub_title": "",
+    "thumbnail_big": "db/416_toys/thumbnail_big",
+    "thumbnail_mini": "db/416_toys/thumbnail_small"
+}

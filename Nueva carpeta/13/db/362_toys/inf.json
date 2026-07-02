@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 cubo publicidad Block House"
+        },
+        {
+            "name": "Marca",
+            "value": "Block House"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "14/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://kubekings.com/blog/post/como-hacer-el-cubo-de-rubik"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "14/3/24 19:46"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "14/3/24 19:47"
+        }
+    ],
+    "main_title": "3x3x3 cubo publicidad Block House",
+    "sub_title": "Block House",
+    "thumbnail_big": "db/362_toys/thumbnail_big",
+    "thumbnail_mini": "db/362_toys/thumbnail_small"
+}

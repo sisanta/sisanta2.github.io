@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Mirrorkal Escher"
+        },
+        {
+            "name": "Marca",
+            "value": "Recent Toys"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "20/04/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://songeniales.com/hobbies/mirrorkal-escher"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "20/4/25 19:52"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "20/4/25 19:52"
+        }
+    ],
+    "main_title": "Mirrorkal Escher",
+    "sub_title": "Recent Toys",
+    "thumbnail_big": "db/641_toys/thumbnail_big",
+    "thumbnail_mini": "db/641_toys/thumbnail_small"
+}

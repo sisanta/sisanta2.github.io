@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Bola china de 6 piezas"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Plástico"
+        },
+        {
+            "name": "Fecha",
+            "value": "10/06/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://collection.cassetete.free.fr/3_plastique/boule_six_pieces/boule_six_pieces.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "10/6/24 18:00"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "24/3/25 21:45"
+        }
+    ],
+    "main_title": "Bola china de 6 piezas",
+    "sub_title": "",
+    "thumbnail_big": "db/479_toys/thumbnail_big",
+    "thumbnail_mini": "db/479_toys/thumbnail_small"
+}

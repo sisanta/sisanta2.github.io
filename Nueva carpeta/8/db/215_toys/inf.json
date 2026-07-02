@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Solitario inglés"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Madera"
+        },
+        {
+            "name": "Fecha",
+            "value": "22/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://mates.aomatos.com/juegos-de-estrategia-el-solitario-ingles/"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "22/2/24 17:58"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "22/2/24 17:58"
+        }
+    ],
+    "main_title": "Solitario inglés",
+    "sub_title": "",
+    "thumbnail_big": "db/215_toys/thumbnail_big",
+    "thumbnail_mini": "db/215_toys/thumbnail_small"
+}

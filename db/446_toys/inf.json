@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Faber-Castell 1/87 System Rietz (Alemán)"
+        },
+        {
+            "name": "Marca",
+            "value": "Faber-Castell"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Alemania"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "15/04/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/Faber.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "15/4/24 18:42"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "15/4/24 18:43"
+        }
+    ],
+    "main_title": "Faber-Castell 1/87 System Rietz (Alemán)",
+    "sub_title": "Faber-Castell",
+    "thumbnail_big": "db/446_toys/thumbnail_big",
+    "thumbnail_mini": "db/446_toys/thumbnail_small"
+}

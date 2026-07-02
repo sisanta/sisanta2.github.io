@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Faber-Castell 57/87 Rietz"
+        },
+        {
+            "name": "Marca",
+            "value": "Faber Castell"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Alemania"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "06/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/Faber.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/24 14:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "27/3/24 21:27"
+        }
+    ],
+    "main_title": "Faber-Castell 57/87 Rietz",
+    "sub_title": "Faber Castell",
+    "thumbnail_big": "db/47_toys/thumbnail_big",
+    "thumbnail_mini": "db/47_toys/thumbnail_small"
+}

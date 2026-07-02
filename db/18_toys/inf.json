@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "?Salmoiraghi compensato barometro"
+        },
+        {
+            "name": "Marca",
+            "value": "Salmoiraghi"
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": "Italia"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "05/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.astropa.inaf.it/museodellaspecola/collezione-degli-strumenti/meteorologia/"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/24 14:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "24/2/24 19:52"
+        }
+    ],
+    "main_title": "?Salmoiraghi compensato barometro",
+    "sub_title": "Salmoiraghi",
+    "thumbnail_big": "db/18_toys/thumbnail_big",
+    "thumbnail_mini": "db/18_toys/thumbnail_small"
+}

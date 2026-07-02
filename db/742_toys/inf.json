@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Llavero rompecabezas 3D BP"
+        },
+        {
+            "name": "Marca",
+            "value": "BP"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "06/04/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.ebay.es/itm/146995632571"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "6/4/26 18:29"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "6/4/26 18:33"
+        }
+    ],
+    "main_title": "Llavero rompecabezas 3D BP",
+    "sub_title": "BP",
+    "thumbnail_big": "db/742_toys/thumbnail_big",
+    "thumbnail_mini": "db/742_toys/thumbnail_small"
+}

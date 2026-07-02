@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Supremathic"
+        },
+        {
+            "name": "Marca",
+            "value": "Stephens"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Francia"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "21/03/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://sites.google.com/site/bobscalculatorsandsliderules/home/slide-rules/supremathic"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "21/3/25 20:03"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "21/3/25 20:03"
+        }
+    ],
+    "main_title": "Supremathic",
+    "sub_title": "Stephens",
+    "thumbnail_big": "db/624_toys/thumbnail_big",
+    "thumbnail_mini": "db/624_toys/thumbnail_small"
+}

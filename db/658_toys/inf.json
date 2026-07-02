@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "SATOLEX Ball-Point Pen Calculator HGP03"
+        },
+        {
+            "name": "Marca",
+            "value": "SATOLEX"
+        },
+        {
+            "name": "Tipo",
+            "value": "Calculadora"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "04/08/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://www.calcuseum.com/SCRAPBOOK/BONUS/46615/1.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "4/8/25 19:18"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "4/8/25 19:20"
+        }
+    ],
+    "main_title": "SATOLEX Ball-Point Pen Calculator HGP03",
+    "sub_title": "SATOLEX",
+    "thumbnail_big": "db/658_toys/thumbnail_big",
+    "thumbnail_mini": "db/658_toys/thumbnail_small"
+}

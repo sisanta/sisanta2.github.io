@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "??Pickett & Eckel 1000 Ortho-Phase Duplex"
+        },
+        {
+            "name": "Marca",
+            "value": "Pickett & Ecke"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Estados Unidos"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "04/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/Pickett.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "4/3/24 17:35"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "4/3/24 17:35"
+        }
+    ],
+    "main_title": "??Pickett & Eckel 1000 Ortho-Phase Duplex",
+    "sub_title": "Pickett & Ecke",
+    "thumbnail_big": "db/287_toys/thumbnail_big",
+    "thumbnail_mini": "db/287_toys/thumbnail_small"
+}

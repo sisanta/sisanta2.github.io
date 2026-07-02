@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "?4x4x4 cubo"
+        },
+        {
+            "name": "Marca",
+            "value": "Rubik"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "18/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://kubekings.com/blog/post/tipos-de-cubos-rubik-y-sus-nombres"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "18/3/24 18:49"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "18/3/24 18:49"
+        }
+    ],
+    "main_title": "?4x4x4 cubo",
+    "sub_title": "Rubik",
+    "thumbnail_big": "db/391_toys/thumbnail_big",
+    "thumbnail_mini": "db/391_toys/thumbnail_small"
+}

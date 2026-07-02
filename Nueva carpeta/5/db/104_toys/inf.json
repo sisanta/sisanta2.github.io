@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Contex \"Model A\""
+        },
+        {
+            "name": "Marca",
+            "value": "Contex"
+        },
+        {
+            "name": "Tipo",
+            "value": "Calculadora"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "08/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://physicsmuseum.uq.edu.au/contex-adding-machine"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/24 14:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "8/2/24 17:59"
+        }
+    ],
+    "main_title": "Contex \"Model A\"",
+    "sub_title": "Contex",
+    "thumbnail_big": "db/104_toys/thumbnail_big",
+    "thumbnail_mini": "db/104_toys/thumbnail_small"
+}

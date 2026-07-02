@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 cubo cóncavo"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "19/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.juegosbesa.com/es/cubos-standard/1115-cubo-yj-concavo-jinjiao.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "19/3/24 20:51"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "19/3/24 20:55"
+        }
+    ],
+    "main_title": "3x3x3 cubo cóncavo",
+    "sub_title": "",
+    "thumbnail_big": "db/403_toys/thumbnail_big",
+    "thumbnail_mini": "db/403_toys/thumbnail_small"
+}

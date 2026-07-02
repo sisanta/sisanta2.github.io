@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Puzle deslizante \"Drôles de jeux\". Petanca. Wolinski"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": "Francia"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "05/03/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://ludocollec.com/carres-magiques/"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/3/26 19:31"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "5/3/26 19:49"
+        }
+    ],
+    "main_title": "Puzle deslizante \"Drôles de jeux\". Petanca. Wolinski",
+    "sub_title": "",
+    "thumbnail_big": "db/714_toys/thumbnail_big",
+    "thumbnail_mini": "db/714_toys/thumbnail_small"
+}

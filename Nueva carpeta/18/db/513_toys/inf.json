@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Balanza de bolsillo Die Klein-Waage"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "25/09/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.todocoleccion.net/antiguedades-tecnicas/vieja-balanza-bolsillo~x32136724"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "25/9/24 21:41"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "24/3/25 22:00"
+        }
+    ],
+    "main_title": "Balanza de bolsillo Die Klein-Waage",
+    "sub_title": "",
+    "thumbnail_big": "db/513_toys/thumbnail_big",
+    "thumbnail_mini": "db/513_toys/thumbnail_small"
+}

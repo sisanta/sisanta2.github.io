@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "M.C. Escher. 12 bloques 6 rompecabezas"
+        },
+        {
+            "name": "Marca",
+            "value": "Pomegranate Kids"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "06/04/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/gezelschapsspellen-bordspellen/m2376805206-m-c-escher-block-puzzle-12-blocks-6-puzzles-by-pomegranat"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "6/4/26 17:31"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "6/4/26 17:31"
+        }
+    ],
+    "main_title": "M.C. Escher. 12 bloques 6 rompecabezas",
+    "sub_title": "Pomegranate Kids",
+    "thumbnail_big": "db/737_toys/thumbnail_big",
+    "thumbnail_mini": "db/737_toys/thumbnail_small"
+}

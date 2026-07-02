@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Post 1444K Post Logo (Hemmi on back)"
+        },
+        {
+            "name": "Marca",
+            "value": "Frederick Post"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Japón"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "15/04/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/Post.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "15/4/24 18:11"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "15/4/24 18:11"
+        }
+    ],
+    "main_title": "Post 1444K Post Logo (Hemmi on back)",
+    "sub_title": "Frederick Post",
+    "thumbnail_big": "db/444_toys/thumbnail_big",
+    "thumbnail_mini": "db/444_toys/thumbnail_small"
+}

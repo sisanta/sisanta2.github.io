@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 cubo Rubik"
+        },
+        {
+            "name": "Marca",
+            "value": "Rubik"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "18/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.teoriadealgoritmos.com/como-armar-un-cubo-rubik-de-3x3-en-7-pasos/"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "18/3/24 20:22"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "18/3/24 20:22"
+        }
+    ],
+    "main_title": "3x3x3 cubo Rubik",
+    "sub_title": "Rubik",
+    "thumbnail_big": "db/395_toys/thumbnail_big",
+    "thumbnail_mini": "db/395_toys/thumbnail_small"
+}

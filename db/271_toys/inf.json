@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Juego de piezas deslizantes"
+        },
+        {
+            "name": "Marca",
+            "value": "Pussycat"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Plástico"
+        },
+        {
+            "name": "Fecha",
+            "value": "16/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.cs.brandeis.edu/~storer/JimPuzzles/ZPAGES/zzzPanamaCanal.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "26/2/24 19:32"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "16/1/25 17:50"
+        }
+    ],
+    "main_title": "Juego de piezas deslizantes",
+    "sub_title": "Pussycat",
+    "thumbnail_big": "db/271_toys/thumbnail_big",
+    "thumbnail_mini": "db/271_toys/thumbnail_small"
+}

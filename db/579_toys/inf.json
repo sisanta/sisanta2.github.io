@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Sharp EL-508A"
+        },
+        {
+            "name": "Marca",
+            "value": "Sharp"
+        },
+        {
+            "name": "Tipo",
+            "value": "Calculadora"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "22/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://www.calcuseum.com/scrapbook/BONUS/13616/1.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "22/1/25 20:12"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "22/1/25 20:14"
+        }
+    ],
+    "main_title": "Sharp EL-508A",
+    "sub_title": "Sharp",
+    "thumbnail_big": "db/579_toys/thumbnail_big",
+    "thumbnail_mini": "db/579_toys/thumbnail_small"
+}

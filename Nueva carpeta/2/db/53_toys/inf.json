@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "???Royal Olympic LL 1053"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "07/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/MiscJapan.shtml#Royal"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/24 14:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "7/4/25 17:39"
+        }
+    ],
+    "main_title": "???Royal Olympic LL 1053",
+    "sub_title": "",
+    "thumbnail_big": "db/53_toys/thumbnail_big",
+    "thumbnail_mini": "db/53_toys/thumbnail_small"
+}

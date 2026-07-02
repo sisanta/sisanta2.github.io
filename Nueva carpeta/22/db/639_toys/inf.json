@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Feliks 9"
+        },
+        {
+            "name": "Marca",
+            "value": "Meffert's Puzzles"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "20/04/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://kubekings.com/modificaciones-3x3/feliks-9.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "20/4/25 19:33"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "20/4/25 19:33"
+        }
+    ],
+    "main_title": "Feliks 9",
+    "sub_title": "Meffert's Puzzles",
+    "thumbnail_big": "db/639_toys/thumbnail_big",
+    "thumbnail_mini": "db/639_toys/thumbnail_small"
+}

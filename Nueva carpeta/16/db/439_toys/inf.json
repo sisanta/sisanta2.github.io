@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Unique Log-Log pocket"
+        },
+        {
+            "name": "Marca",
+            "value": "Unique"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Reino Unido"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "15/04/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://tinas-sliderules.me.uk/Slide%20Rules/Unique.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "15/4/24 17:48"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "27/1/25 17:57"
+        }
+    ],
+    "main_title": "Unique Log-Log pocket",
+    "sub_title": "Unique",
+    "thumbnail_big": "db/439_toys/thumbnail_big",
+    "thumbnail_mini": "db/439_toys/thumbnail_small"
+}

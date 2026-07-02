@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Curvímetro Dietzgen (opisómetro)"
+        },
+        {
+            "name": "Marca",
+            "value": "Dietzgen"
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": "Suiza"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "11/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.worthpoint.com/worthopedia/dietzgen-swiss-vintage-drafting-map-4564925250"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "11/3/24 18:50"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "11/3/24 18:50"
+        }
+    ],
+    "main_title": "Curvímetro Dietzgen (opisómetro)",
+    "sub_title": "Dietzgen",
+    "thumbnail_big": "db/319_toys/thumbnail_big",
+    "thumbnail_mini": "db/319_toys/thumbnail_small"
+}

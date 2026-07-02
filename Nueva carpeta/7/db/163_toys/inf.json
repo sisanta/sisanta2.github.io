@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Produx Pocket Model 1"
+        },
+        {
+            "name": "Marca",
+            "value": "Produx"
+        },
+        {
+            "name": "Tipo",
+            "value": "Calculadora"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "12/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.gilai.com/product_446/Produx-Pocket-calculator-for-simple-calculations"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/24 14:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "13/2/24 0:18"
+        }
+    ],
+    "main_title": "Produx Pocket Model 1",
+    "sub_title": "Produx",
+    "thumbnail_big": "db/163_toys/thumbnail_big",
+    "thumbnail_mini": "db/163_toys/thumbnail_small"
+}

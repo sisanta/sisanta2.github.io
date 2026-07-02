@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Puzzle à trois bandes / The Six-Hand Burr"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "23/03/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://collection.cassetete.free.fr/1_bois/puzzle_trois_bandes/puzzle_trois_bandes.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "23/3/25 19:25"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "23/3/25 19:25"
+        }
+    ],
+    "main_title": "Puzzle à trois bandes / The Six-Hand Burr",
+    "sub_title": "",
+    "thumbnail_big": "db/636_toys/thumbnail_big",
+    "thumbnail_mini": "db/636_toys/thumbnail_small"
+}

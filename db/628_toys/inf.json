@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Cartas anidadas / Lettres emboitees"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "21/03/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://collection.cassetete.free.fr/1_bois/lettres_emboitees/lettres_emboitees.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "21/3/25 20:40"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "21/3/25 20:40"
+        }
+    ],
+    "main_title": "Cartas anidadas / Lettres emboitees",
+    "sub_title": "",
+    "thumbnail_big": "db/628_toys/thumbnail_big",
+    "thumbnail_mini": "db/628_toys/thumbnail_small"
+}

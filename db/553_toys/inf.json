@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Puzzzle Box #3 Constantin / La caja secreta de Constantin N.3"
+        },
+        {
+            "name": "Marca",
+            "value": "Logica Giochi"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "06/10/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.logicajuegos.es/la-caja-secreta-de-constantin-n-3-rt-edition"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "6/10/24 21:00"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "6/10/24 21:00"
+        }
+    ],
+    "main_title": "Puzzzle Box #3 Constantin / La caja secreta de Constantin N.3",
+    "sub_title": "Logica Giochi",
+    "thumbnail_big": "db/553_toys/thumbnail_big",
+    "thumbnail_mini": "db/553_toys/thumbnail_small"
+}

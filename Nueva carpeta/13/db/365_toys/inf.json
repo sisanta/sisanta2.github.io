@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 Z-Cube Penrose"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "15/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://goo.su/lVEo (kubekings.com)"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "15/3/24 20:19"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "6/4/25 20:00"
+        }
+    ],
+    "main_title": "3x3x3 Z-Cube Penrose",
+    "sub_title": "",
+    "thumbnail_big": "db/365_toys/thumbnail_big",
+    "thumbnail_mini": "db/365_toys/thumbnail_small"
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Tangram con caja de Plastico"
+        },
+        {
+            "name": "Marca",
+            "value": "Cayro"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Plástico"
+        },
+        {
+            "name": "Fecha",
+            "value": "26/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://es.wikipedia.org/wiki/Tangram"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "26/2/24 16:54"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "7/4/25 18:37"
+        }
+    ],
+    "main_title": "Tangram con caja de Plastico",
+    "sub_title": "Cayro",
+    "thumbnail_big": "db/251_toys/thumbnail_big",
+    "thumbnail_mini": "db/251_toys/thumbnail_small"
+}

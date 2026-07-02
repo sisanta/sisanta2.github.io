@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Enigma"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Plástico"
+        },
+        {
+            "name": "Fecha",
+            "value": "13/06/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.cs.brandeis.edu/~storer/JimPuzzles/ZPAGES/zzzEnigma.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "13/6/24 19:24"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "13/6/24 19:24"
+        }
+    ],
+    "main_title": "Enigma",
+    "sub_title": "",
+    "thumbnail_big": "db/484_toys/thumbnail_big",
+    "thumbnail_mini": "db/484_toys/thumbnail_small"
+}

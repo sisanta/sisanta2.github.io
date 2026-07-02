@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Simplon Bilateral (Log Log)"
+        },
+        {
+            "name": "Marca",
+            "value": "Simplon"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Reino Unido"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "28/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/British.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "28/1/25 14:21"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "28/1/25 14:21"
+        }
+    ],
+    "main_title": "Simplon Bilateral (Log Log)",
+    "sub_title": "Simplon",
+    "thumbnail_big": "db/596_toys/thumbnail_big",
+    "thumbnail_mini": "db/596_toys/thumbnail_small"
+}

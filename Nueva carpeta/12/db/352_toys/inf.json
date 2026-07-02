@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 cubo Dayan"
+        },
+        {
+            "name": "Marca",
+            "value": "Dayan"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "14/03/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://rubiks.fandom.com/wiki/Dayan"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "14/3/24 18:05"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "23/3/24 20:54"
+        }
+    ],
+    "main_title": "3x3x3 cubo Dayan",
+    "sub_title": "Dayan",
+    "thumbnail_big": "db/352_toys/thumbnail_big",
+    "thumbnail_mini": "db/352_toys/thumbnail_small"
+}

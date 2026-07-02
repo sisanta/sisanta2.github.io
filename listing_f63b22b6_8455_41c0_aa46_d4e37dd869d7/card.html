@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Numento 2 : Marcas</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <base href="../" target="_self">
+
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <link rel="stylesheet" href="res/css/card.css?d41d8cd98f00b204e9800998ecf8427e">
+
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+
+<script>
+    var nmtMobile = new NumentoMobileManager();
+
+
+    document.addEventListener("DOMContentLoaded", function() {
+      nmtMobile.loadCurrentCard({
+        'pattern_card_json':'db/{{key_id}}/inf.json',
+        'hash_database':'0c898186ee9399014991a56d68316130-c4c5f09085e71ac5ec9d3485d4388b7f-v5',
+        'pattern_url_thumbnail':'db/{{key_id}}/thumbnail_big'
+      }
+        );
+    });
+</script>
+
+</head>
+<body>
+
+<a class="title lnk_back_to_listing" href='listing_f63b22b6_8455_41c0_aa46_d4e37dd869d7/listing.html'>
+  <div class='title_icon' ><img  style="width:5vw;" src="res/img/liste_intelligente.svg"></div>
+  <img  style="width:3vw;" class='arrow_back'  src="res/img/arrow_left.svg">
+  <div class='title_label'>Marcas</div>
+</a>
+
+<div class="section_main_image">
+  <div class="thumbnail main_image"><img class=" main_image_source" src="" /></div>
+</div>
+<div class="separator"></div>
+
+
+<div class='content_fields'>
+  <div class='grid_container field_item'>
+      <div class='grid_item_name f_name'></div><div class='f_separator'>:</div><div class='grid_item_value f_value'></div>
+  </div>
+</div>
+
+</body>
+</html>

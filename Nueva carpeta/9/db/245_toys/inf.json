@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Tubò Pitagorico Quercetti"
+        },
+        {
+            "name": "Marca",
+            "value": "Quercetti"
+        },
+        {
+            "name": "Tipo",
+            "value": ""
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Plástico"
+        },
+        {
+            "name": "Fecha",
+            "value": "25/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.quercettistore.com/it/products/tubo-pitagorico-imparare-tabelline-bambini"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "25/2/24 21:25"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "25/2/24 21:25"
+        }
+    ],
+    "main_title": "Tubò Pitagorico Quercetti",
+    "sub_title": "Quercetti",
+    "thumbnail_big": "db/245_toys/thumbnail_big",
+    "thumbnail_mini": "db/245_toys/thumbnail_small"
+}

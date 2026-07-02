@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Regla Vagma 3 Líneas trigonométricas"
+        },
+        {
+            "name": "Marca",
+            "value": "Vagma"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "España"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "21/05/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.todocoleccion.net/antiguedades-tecnicas/regla-calculo-formulas-triangulo-rectangulo-lineas-trigonometricas-vagma-1959~x497121097"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "21/5/26 17:51"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "21/5/26 17:53"
+        }
+    ],
+    "main_title": "Regla Vagma 3 Líneas trigonométricas",
+    "sub_title": "Vagma",
+    "thumbnail_big": "db/768_toys/thumbnail_big",
+    "thumbnail_mini": "db/768_toys/thumbnail_small"
+}

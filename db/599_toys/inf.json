@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Addimult Summator"
+        },
+        {
+            "name": "Marca",
+            "value": "Addimult"
+        },
+        {
+            "name": "Tipo",
+            "value": "Calculadora"
+        },
+        {
+            "name": "País",
+            "value": "Alemania"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "28/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://mechanicalculator.com/addimult/addimult/"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "28/1/25 22:00"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "28/1/25 22:00"
+        }
+    ],
+    "main_title": "Addimult Summator",
+    "sub_title": "Addimult",
+    "thumbnail_big": "db/599_toys/thumbnail_big",
+    "thumbnail_mini": "db/599_toys/thumbnail_small"
+}

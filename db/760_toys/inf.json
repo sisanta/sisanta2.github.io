@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 cubo Rubik's Phantom"
+        },
+        {
+            "name": "Marca",
+            "value": "Rubik"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "23/04/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://kubekings.com/cubos-de-rubik-3x3/rubik-s-3x3-phantom.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "23/4/26 18:30"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "23/4/26 18:31"
+        }
+    ],
+    "main_title": "3x3x3 cubo Rubik's Phantom",
+    "sub_title": "Rubik",
+    "thumbnail_big": "db/760_toys/thumbnail_big",
+    "thumbnail_mini": "db/760_toys/thumbnail_small"
+}

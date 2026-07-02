@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Numento 2 Mobile</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+
+	<style type="text/css">
+
+      .desktop_container{
+         display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+  </style>
+
+<script>
+
+if (location.hostname.length==0)
+{
+  alert("Este sitio sólo funciona si se publica en un servidor web");
+}
+
+  function resizeIframe() 
+  {
+    var obj = window.frame_desktop;
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+
+    setTimeout(function() {resizeIframe()}, 300);
+  }
+
+  function startResizeIframe(obj) 
+  {
+    window.frame_desktop = obj; 
+  }
+
+  setTimeout(function() {resizeIframe()}, 300);
+</script>
+</head>
+<body>
+
+<div class="desktop_container">
+  <iframe width="600px" src="index.html" frameborder="0" scrolling="no" onload="startResizeIframe(this)" ></iframe>
+</div>
+<br>
+<br>
+
+
+</body>
+</html>

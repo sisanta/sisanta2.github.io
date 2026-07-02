@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Le clou du diable"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": ""
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Metal"
+        },
+        {
+            "name": "Fecha",
+            "value": "25/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://www.jeuxanciensdecollection.com/pages/les_jeux_de_physique_amusante_magie_-8909000.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "25/2/24 20:48"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "25/2/24 20:48"
+        }
+    ],
+    "main_title": "Le clou du diable",
+    "sub_title": "",
+    "thumbnail_big": "db/238_toys/thumbnail_big",
+    "thumbnail_mini": "db/238_toys/thumbnail_small"
+}

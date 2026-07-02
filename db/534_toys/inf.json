@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "?Conjunto de 9 jarras medidoras de líquidos"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "02/10/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": ""
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "2/10/24 21:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "2/10/24 21:02"
+        }
+    ],
+    "main_title": "?Conjunto de 9 jarras medidoras de líquidos",
+    "sub_title": "",
+    "thumbnail_big": "db/534_toys/thumbnail_big",
+    "thumbnail_mini": "db/534_toys/thumbnail_small"
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 Cubo mini (10 mm)"
+        },
+        {
+            "name": "Marca",
+            "value": "CubeLab"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "20/04/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://kubekings.com/cubos-de-rubik-3x3/cubelab-mini-3x3-1-cm.html#/11-color-negro"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "20/4/26 18:00"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "20/4/26 18:05"
+        }
+    ],
+    "main_title": "3x3x3 Cubo mini (10 mm)",
+    "sub_title": "CubeLab",
+    "thumbnail_big": "db/756_toys/thumbnail_big",
+    "thumbnail_mini": "db/756_toys/thumbnail_small"
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Carrete mágico Vilpa"
+        },
+        {
+            "name": "Marca",
+            "value": "Vilpa"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "06/10/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://acortar.link/hMqr2S  (www.todocoleccion.net)"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "6/10/24 19:51"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "6/4/25 20:11"
+        }
+    ],
+    "main_title": "Carrete mágico Vilpa",
+    "sub_title": "Vilpa",
+    "thumbnail_big": "db/542_toys/thumbnail_big",
+    "thumbnail_mini": "db/542_toys/thumbnail_small"
+}

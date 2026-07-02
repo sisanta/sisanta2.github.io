@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Contador manual"
+        },
+        {
+            "name": "Marca",
+            "value": "Axe click"
+        },
+        {
+            "name": "Tipo",
+            "value": "Contador"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "08/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://es.frwiki.wiki/wiki/Compteur_manuel"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "9/5/24 21:52"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "9/5/24 21:55"
+        }
+    ],
+    "main_title": "Contador manual",
+    "sub_title": "Axe click",
+    "thumbnail_big": "db/458_toys/thumbnail_big",
+    "thumbnail_mini": "db/458_toys/thumbnail_small"
+}

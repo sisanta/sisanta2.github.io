@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Cubo serpiente / CUBE ÉLASTIQUE 3x3x3"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Madera"
+        },
+        {
+            "name": "Fecha",
+            "value": "19/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://kubekings.com/rompecabezas-de-madera/puzzle-bambu-cubo-serpiente-3d.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "19/2/24 17:38"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "18/3/24 16:55"
+        }
+    ],
+    "main_title": "Cubo serpiente / CUBE ÉLASTIQUE 3x3x3",
+    "sub_title": "",
+    "thumbnail_big": "db/197_toys/thumbnail_big",
+    "thumbnail_mini": "db/197_toys/thumbnail_small"
+}

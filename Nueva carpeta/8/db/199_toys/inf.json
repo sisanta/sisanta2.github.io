@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "BRIGHTON - CT 624 - ARJEU"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Madera"
+        },
+        {
+            "name": "Fecha",
+            "value": "19/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "http://collection.cassetete.free.fr/1_bois/brighton/brighton.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "19/2/24 17:51"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "19/2/24 17:51"
+        }
+    ],
+    "main_title": "BRIGHTON - CT 624 - ARJEU",
+    "sub_title": "",
+    "thumbnail_big": "db/199_toys/thumbnail_big",
+    "thumbnail_mini": "db/199_toys/thumbnail_small"
+}

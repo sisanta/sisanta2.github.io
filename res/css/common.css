@@ -1,0 +1,47 @@
+
+html, body {
+
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  padding: 0px;
+  margin:0px;
+
+  color:white; /* couleur du texte */
+  background-color: black;
+
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+
+.thumbnail {
+  position: relative;
+  overflow: hidden;
+
+  border-radius: 2vw 2vw;
+}
+.thumbnail img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+
+.thumbnail img.portrait {
+  width: 100%;
+  height: auto;
+}
+
+
+
+

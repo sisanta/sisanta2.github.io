@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Pepsi Cola Slide Puzzle Can"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Plástico"
+        },
+        {
+            "name": "Fecha",
+            "value": "26/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://sites.google.com/site/geduldspiele/Gallery3DSlidingPuzzles"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "26/2/24 17:01"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "6/10/24 20:28"
+        }
+    ],
+    "main_title": "Pepsi Cola Slide Puzzle Can",
+    "sub_title": "",
+    "thumbnail_big": "db/253_toys/thumbnail_big",
+    "thumbnail_mini": "db/253_toys/thumbnail_small"
+}

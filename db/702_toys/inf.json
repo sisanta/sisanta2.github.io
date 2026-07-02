@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Balanza de pesa deslizante"
+        },
+        {
+            "name": "Marca",
+            "value": "ENOSA"
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "22/01/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://tiposdebalanzas1.blogspot.com/2018/08/tipos-de-balanzas.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "22/1/26 17:08"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "22/1/26 17:08"
+        }
+    ],
+    "main_title": "Balanza de pesa deslizante",
+    "sub_title": "ENOSA",
+    "thumbnail_big": "db/702_toys/thumbnail_big",
+    "thumbnail_mini": "db/702_toys/thumbnail_small"
+}

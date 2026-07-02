@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Saturn"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "26/09/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.jaapsch.net/puzzles/saturn.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "26/9/24 18:29"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "26/9/24 18:29"
+        }
+    ],
+    "main_title": "Saturn",
+    "sub_title": "",
+    "thumbnail_big": "db/516_toys/thumbnail_big",
+    "thumbnail_mini": "db/516_toys/thumbnail_small"
+}

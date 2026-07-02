@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Sun and Moon / Sol y Luna M. C. Escher"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": "Paises Bajos"
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Madera"
+        },
+        {
+            "name": "Fecha",
+            "value": "05/03/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://escherinhetpaleis.nl/en/about-escher/escher-today/sun-and-moon"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/3/26 18:07"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "5/3/26 18:43"
+        }
+    ],
+    "main_title": "Sun and Moon / Sol y Luna M. C. Escher",
+    "sub_title": "",
+    "thumbnail_big": "db/711_toys/thumbnail_big",
+    "thumbnail_mini": "db/711_toys/thumbnail_small"
+}

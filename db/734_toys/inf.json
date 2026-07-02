@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "???Cubos de colores (amarillo, verde, azul, rojo)"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": ""
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "madera"
+        },
+        {
+            "name": "Fecha",
+            "value": "19/03/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://serveiestacio.com/es/cubos-madera-colores-12x12x12mm-72u-99580.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "19/3/26 18:19"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "19/3/26 18:19"
+        }
+    ],
+    "main_title": "???Cubos de colores (amarillo, verde, azul, rojo)",
+    "sub_title": "",
+    "thumbnail_big": "db/734_toys/thumbnail_big",
+    "thumbnail_mini": "db/734_toys/thumbnail_small"
+}

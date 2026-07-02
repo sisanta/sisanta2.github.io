@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Medidor de doble litro"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "02/10/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.cem.es/es/cem/metrologia/sistema-internacional-unidades-si"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "2/10/24 19:50"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "2/10/24 20:06"
+        }
+    ],
+    "main_title": "Medidor de doble litro",
+    "sub_title": "",
+    "thumbnail_big": "db/530_toys/thumbnail_big",
+    "thumbnail_mini": "db/530_toys/thumbnail_small"
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Hugh-Owens 1768C"
+        },
+        {
+            "name": "Marca",
+            "value": "Hugh-Owens"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Canadá"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "23/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://sliderulemuseum.com/Hemmi.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "23/1/25 17:50"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "23/1/25 17:50"
+        }
+    ],
+    "main_title": "Hugh-Owens 1768C",
+    "sub_title": "Hugh-Owens",
+    "thumbnail_big": "db/586_toys/thumbnail_big",
+    "thumbnail_mini": "db/586_toys/thumbnail_small"
+}

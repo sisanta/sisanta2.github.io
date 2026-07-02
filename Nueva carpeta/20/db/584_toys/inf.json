@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "K&E N4058W Beginner's Slide Rule"
+        },
+        {
+            "name": "Marca",
+            "value": "K&E"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Estados Unidos"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "23/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/KE_Standard.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "23/1/25 17:31"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "23/1/25 17:33"
+        }
+    ],
+    "main_title": "K&E N4058W Beginner's Slide Rule",
+    "sub_title": "K&E",
+    "thumbnail_big": "db/584_toys/thumbnail_big",
+    "thumbnail_mini": "db/584_toys/thumbnail_small"
+}

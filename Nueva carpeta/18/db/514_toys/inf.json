@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Hexaturn"
+        },
+        {
+            "name": "Marca",
+            "value": "Recent Toys"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "26/09/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://duochess.es/producto/hexaturn/"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "26/9/24 13:28"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "26/9/24 13:28"
+        }
+    ],
+    "main_title": "Hexaturn",
+    "sub_title": "Recent Toys",
+    "thumbnail_big": "db/514_toys/thumbnail_big",
+    "thumbnail_mini": "db/514_toys/thumbnail_small"
+}

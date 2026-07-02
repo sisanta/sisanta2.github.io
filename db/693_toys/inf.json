@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Alíimetro/barómetro"
+        },
+        {
+            "name": "Marca",
+            "value": "YCM"
+        },
+        {
+            "name": "Tipo",
+            "value": ""
+        },
+        {
+            "name": "País",
+            "value": "Japón"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "18/12/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.ricardo.ch/de/a/altimeter-barometer-von-ycm-praezise-hoehenmessung-1293315386/"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "18/12/25 18:16"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "18/12/25 18:16"
+        }
+    ],
+    "main_title": "Alíimetro/barómetro",
+    "sub_title": "YCM",
+    "thumbnail_big": "db/693_toys/thumbnail_big",
+    "thumbnail_mini": "db/693_toys/thumbnail_small"
+}

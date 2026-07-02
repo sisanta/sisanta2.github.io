@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Caja Secreta Spring"
+        },
+        {
+            "name": "Marca",
+            "value": "Philos"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "29/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.juegosbesa.com/es/cajas-secretas/1444-caja-secreta-spring.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "29/1/25 13:58"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "29/1/25 13:58"
+        }
+    ],
+    "main_title": "Caja Secreta Spring",
+    "sub_title": "Philos",
+    "thumbnail_big": "db/601_toys/thumbnail_big",
+    "thumbnail_mini": "db/601_toys/thumbnail_small"
+}

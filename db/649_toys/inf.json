@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "ELECTRONICA QUEROL: TRQ: F1001"
+        },
+        {
+            "name": "Marca",
+            "value": "TRQ"
+        },
+        {
+            "name": "Tipo",
+            "value": "Calculadora"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "21/04/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.calcuseum.com/SCRAPBOOK/BONUS/31485/1.htm"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "21/4/25 22:52"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "21/4/25 22:52"
+        }
+    ],
+    "main_title": "ELECTRONICA QUEROL: TRQ: F1001",
+    "sub_title": "TRQ",
+    "thumbnail_big": "db/649_toys/thumbnail_big",
+    "thumbnail_mini": "db/649_toys/thumbnail_small"
+}

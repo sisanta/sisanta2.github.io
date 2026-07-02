@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Post 1446 (Pre-WWII)"
+        },
+        {
+            "name": "Marca",
+            "value": "Frederick Post"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Japón"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "11/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.sliderulemuseum.com/Post.shtml"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "11/1/25 17:52"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "11/1/25 17:58"
+        }
+    ],
+    "main_title": "Post 1446 (Pre-WWII)",
+    "sub_title": "Frederick Post",
+    "thumbnail_big": "db/572_toys/thumbnail_big",
+    "thumbnail_mini": "db/572_toys/thumbnail_small"
+}

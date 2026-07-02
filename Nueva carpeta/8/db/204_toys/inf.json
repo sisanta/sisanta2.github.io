@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Flexi Cube Rojo"
+        },
+        {
+            "name": "Marca",
+            "value": "Aquamarine Games"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Madera"
+        },
+        {
+            "name": "Fecha",
+            "value": "20/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://kubekings.com/rompecabezas-de-madera/flexi-cube.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "20/2/24 15:53"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "23/3/25 1:16"
+        }
+    ],
+    "main_title": "Flexi Cube Rojo",
+    "sub_title": "Aquamarine Games",
+    "thumbnail_big": "db/204_toys/thumbnail_big",
+    "thumbnail_mini": "db/204_toys/thumbnail_small"
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "IWA 1652 circular"
+        },
+        {
+            "name": "Marca",
+            "value": "IWA"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "Alemania"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "28/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://osgalleries.org/collectors/davis/info_and_image.cgi?string1=iwa&string2=105"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "28/1/25 21:31"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "28/1/25 21:31"
+        }
+    ],
+    "main_title": "IWA 1652 circular",
+    "sub_title": "IWA",
+    "thumbnail_big": "db/597_toys/thumbnail_big",
+    "thumbnail_mini": "db/597_toys/thumbnail_small"
+}

@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Regla Vagma 3 Funciones circulares"
+        },
+        {
+            "name": "Marca",
+            "value": "Vagma"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla de cálculo"
+        },
+        {
+            "name": "País",
+            "value": "España"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "01/06/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.todocoleccion.net/antiguedades-tecnicas/reglilla-vagma-funciones-circulares-modelo-3~x450085542"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "1/6/26 17:35"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "1/6/26 17:40"
+        }
+    ],
+    "main_title": "Regla Vagma 3 Funciones circulares",
+    "sub_title": "Vagma",
+    "thumbnail_big": "db/772_toys/thumbnail_big",
+    "thumbnail_mini": "db/772_toys/thumbnail_small"
+}

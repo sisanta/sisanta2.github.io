@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 Rubik's cube Claude Monet"
+        },
+        {
+            "name": "Marca",
+            "value": "Rubik"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "10/01/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://pro.boutiquesdemusees.fr/fr/product/59083-rubik-cube-claude-monet-musee-orsay.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "10/1/25 19:24"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "10/1/25 19:26"
+        }
+    ],
+    "main_title": "3x3x3 Rubik's cube Claude Monet",
+    "sub_title": "Rubik",
+    "thumbnail_big": "db/566_toys/thumbnail_big",
+    "thumbnail_mini": "db/566_toys/thumbnail_small"
+}

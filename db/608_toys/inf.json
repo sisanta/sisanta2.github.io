@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Walk up puzzle and try your luck (walkup)"
+        },
+        {
+            "name": "Marca",
+            "value": "Wellingtons Ltd Stamford Lincs"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": "Inglaterra"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "21/03/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.etsy.com/es/listing/928268183/juego-de-rompecabezas-vintage-ladybird"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "21/3/25 18:10"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "21/3/25 18:10"
+        }
+    ],
+    "main_title": "Walk up puzzle and try your luck (walkup)",
+    "sub_title": "Wellingtons Ltd Stamford Lincs",
+    "thumbnail_big": "db/608_toys/thumbnail_big",
+    "thumbnail_mini": "db/608_toys/thumbnail_small"
+}

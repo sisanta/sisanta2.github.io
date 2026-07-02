@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "3x3x3 cubo grande (7 cm)"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Rubik"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "11/08/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://lacasamagica.es/juguetes-magicos/441-cubo-rubik-7x-7cm.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "11/8/25 21:00"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "11/8/25 21:00"
+        }
+    ],
+    "main_title": "3x3x3 cubo grande (7 cm)",
+    "sub_title": "",
+    "thumbnail_big": "db/673_toys/thumbnail_big",
+    "thumbnail_mini": "db/673_toys/thumbnail_small"
+}

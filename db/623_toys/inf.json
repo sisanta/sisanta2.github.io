@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Cuadrante Capuccino"
+        },
+        {
+            "name": "Marca",
+            "value": "Hemisferium"
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": "España"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "21/03/2025"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://acortar.link/ajRcVZ  (hemisferium.net)"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "21/3/25 19:58"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "7/4/25 17:50"
+        }
+    ],
+    "main_title": "Cuadrante Capuccino",
+    "sub_title": "Hemisferium",
+    "thumbnail_big": "db/623_toys/thumbnail_big",
+    "thumbnail_mini": "db/623_toys/thumbnail_small"
+}

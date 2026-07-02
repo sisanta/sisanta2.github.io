@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Reloj solar de Tico (Willy Fog)"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "16/06/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://www.hablemosderelojes.com/t/reloj-solar-tico-willy-fog/38470"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "16/6/24 13:34"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "16/6/24 13:34"
+        }
+    ],
+    "main_title": "Reloj solar de Tico (Willy Fog)",
+    "sub_title": "",
+    "thumbnail_big": "db/502_toys/thumbnail_big",
+    "thumbnail_mini": "db/502_toys/thumbnail_small"
+}

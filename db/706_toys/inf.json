@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Romana pequeña"
+        },
+        {
+            "name": "Marca",
+            "value": ""
+        },
+        {
+            "name": "Tipo",
+            "value": "Medida"
+        },
+        {
+            "name": "País",
+            "value": "Turquía?"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "05/02/2026"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://dle.rae.es/romana"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/26 17:28"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "5/2/26 17:28"
+        }
+    ],
+    "main_title": "Romana pequeña",
+    "sub_title": "",
+    "thumbnail_big": "db/706_toys/thumbnail_big",
+    "thumbnail_mini": "db/706_toys/thumbnail_small"
+}

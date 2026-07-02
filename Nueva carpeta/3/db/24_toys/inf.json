@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Regla plegable RABONE BOXWOOD 36 pulgadas"
+        },
+        {
+            "name": "Marca",
+            "value": "Rabone"
+        },
+        {
+            "name": "Tipo",
+            "value": "Regla"
+        },
+        {
+            "name": "País",
+            "value": "Reino Unido"
+        },
+        {
+            "name": "Tipo de material",
+            "value": ""
+        },
+        {
+            "name": "Fecha",
+            "value": "06/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": ""
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "5/2/24 14:02"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "24/2/24 19:54"
+        }
+    ],
+    "main_title": "Regla plegable RABONE BOXWOOD 36 pulgadas",
+    "sub_title": "Rabone",
+    "thumbnail_big": "db/24_toys/thumbnail_big",
+    "thumbnail_mini": "db/24_toys/thumbnail_small"
+}

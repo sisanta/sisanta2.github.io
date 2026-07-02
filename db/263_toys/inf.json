@@ -1,0 +1,68 @@
+{
+    "fields": [
+        {
+            "name": "Nombre",
+            "value": "Diablotin de Vilpa"
+        },
+        {
+            "name": "Marca",
+            "value": "Vilpa"
+        },
+        {
+            "name": "Tipo",
+            "value": "Rompecabezas"
+        },
+        {
+            "name": "País",
+            "value": ""
+        },
+        {
+            "name": "Tipo de material",
+            "value": "Plástico"
+        },
+        {
+            "name": "Fecha",
+            "value": "26/02/2024"
+        },
+        {
+            "name": "Clasificación",
+            "value": "0 %"
+        },
+        {
+            "name": "Dimensiones",
+            "value": ""
+        },
+        {
+            "name": "Número de copias",
+            "value": ""
+        },
+        {
+            "name": "Estado",
+            "value": ""
+        },
+        {
+            "name": "Precio de compra",
+            "value": ""
+        },
+        {
+            "name": "Precio actual",
+            "value": ""
+        },
+        {
+            "name": "Comentario",
+            "value": "https://yotambienlotuve.blogspot.com/2020/05/diablotin-de-vilpa.html"
+        },
+        {
+            "name": "Fecha de creación",
+            "value": "26/2/24 17:57"
+        },
+        {
+            "name": "Fecha del cambio",
+            "value": "26/2/24 17:57"
+        }
+    ],
+    "main_title": "Diablotin de Vilpa",
+    "sub_title": "Vilpa",
+    "thumbnail_big": "db/263_toys/thumbnail_big",
+    "thumbnail_mini": "db/263_toys/thumbnail_small"
+}

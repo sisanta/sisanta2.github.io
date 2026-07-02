@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Numento 2 : Ordenados por tipo</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <base href="../" target="_self">
+
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <link rel="stylesheet" href="res/css/listing.css?d41d8cd98f00b204e9800998ecf8427e">
+
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+
+  <script src="res/intuisphere_ft_search.js?21e07f04cc59716438a9049701bf4a7d"></script>
+  <script src="res/numento_gui_search.js?21e07f04cc59716438a9049701bf4a7d"></script>
+
+<script>
+
+
+
+
+
+
+  let filterCurrentInfos = {
+      'nb_items_per_page':20,
+      'list_ids':['218_toys','238_toys','244_toys','249_toys','258_toys','264_toys','265_toys','269_toys','324_toys','325_toys','470_toys','480_toys','485_toys','488_toys','519_toys','544_toys','618_toys','651_toys','693_toys','734_toys','245_toys','475_toys','487_toys','503_toys','613_toys','666_toys','697_toys','9_toys','13_toys','21_toys','60_toys','61_toys','62_toys','63_toys','64_toys','65_toys','66_toys','67_toys','68_toys','77_toys','79_toys','82_toys','83_toys','84_toys','85_toys','86_toys','87_toys','88_toys','89_toys','90_toys','91_toys','92_toys','93_toys','94_toys','95_toys','96_toys','97_toys','101_toys','104_toys','111_toys','112_toys','113_toys','114_toys','132_toys','143_toys','147_toys','149_toys','150_toys','151_toys','152_toys','157_toys','158_toys','159_toys','160_toys','161_toys','162_toys','163_toys','170_toys','171_toys','172_toys','174_toys','177_toys','178_toys','179_toys','184_toys','185_toys','186_toys','187_toys','188_toys','189_toys','191_toys','301_toys','315_toys','429_toys','442_toys','512_toys','515_toys','547_toys','551_toys','555_toys','560_toys','570_toys','578_toys','579_toys','599_toys','621_toys','631_toys','633_toys','640_toys','642_toys','643_toys','649_toys','656_toys','657_toys','658_toys','682_toys','726_toys','753_toys','754_toys','761_toys','765_toys','103_toys','107_toys','458_toys','568_toys','18_toys','26_toys','27_toys','28_toys','29_toys','30_toys','31_toys','46_toys','142_toys','144_toys','146_toys','148_toys','169_toys','192_toys','239_toys','240_toys','275_toys','299_toys','311_toys','318_toys','319_toys','320_toys','321_toys','322_toys','452_toys','502_toys','513_toys','525_toys','526_toys','527_toys','528_toys','529_toys','530_toys','531_toys','532_toys','533_toys','534_toys','535_toys','536_toys','537_toys','538_toys','540_toys','557_toys','561_toys','569_toys','571_toys','595_toys','598_toys','622_toys','623_toys','630_toys','687_toys','688_toys','689_toys','690_toys','691_toys','692_toys','702_toys','705_toys','706_toys','727_toys','739_toys','749_toys','762_toys','23_toys','24_toys','80_toys','110_toys','165_toys','167_toys','173_toys','175_toys','276_toys','289_toys','290_toys','291_toys','292_toys','293_toys','294_toys','295_toys','304_toys','539_toys','541_toys','543_toys','573_toys','577_toys','583_toys','605_toys','620_toys','767_toys','7_toys','8_toys','10_toys','11_toys','12_toys','14_toys','15_toys','16_toys','17_toys','19_toys','20_toys','22_toys','25_toys','32_toys','33_toys','34_toys','35_toys','36_toys','37_toys','38_toys','39_toys','40_toys','41_toys','42_toys','43_toys','44_toys','45_toys','47_toys','48_toys','49_toys','50_toys','52_toys','53_toys','54_toys','55_toys','69_toys','70_toys','71_toys','72_toys','73_toys','74_toys','75_toys','76_toys','81_toys','102_toys','109_toys','115_toys','116_toys','117_toys','118_toys','119_toys','120_toys','121_toys','122_toys','123_toys','124_toys','126_toys','127_toys','128_toys','129_toys','130_toys','131_toys','133_toys','134_toys','135_toys','136_toys','137_toys','138_toys','139_toys','140_toys','145_toys','153_toys','154_toys','155_toys','166_toys','168_toys','176_toys','180_toys','181_toys','183_toys','190_toys','267_toys','277_toys','278_toys','279_toys','280_toys','281_toys','282_toys','283_toys','284_toys','285_toys','286_toys','287_toys','288_toys','296_toys','297_toys','298_toys','300_toys','302_toys','303_toys','305_toys','306_toys','307_toys','308_toys','309_toys','310_toys','312_toys','313_toys','314_toys','316_toys','317_toys','323_toys','419_toys','426_toys','427_toys','428_toys','430_toys','431_toys','432_toys','433_toys','434_toys','435_toys','436_toys','437_toys','438_toys','439_toys','440_toys','441_toys','443_toys','444_toys','445_toys','446_toys','447_toys','448_toys','556_toys','562_toys','572_toys','574_toys','582_toys','584_toys','585_toys','586_toys','587_toys','588_toys','590_toys','591_toys','592_toys','593_toys','594_toys','596_toys','597_toys','602_toys','606_toys','614_toys','624_toys','652_toys','672_toys','704_toys','744_toys','745_toys','748_toys','750_toys','766_toys','768_toys','769_toys','770_toys','771_toys','772_toys','56_toys','57_toys','58_toys','59_toys','78_toys','98_toys','99_toys','100_toys','105_toys','106_toys','108_toys','125_toys','141_toys','156_toys','164_toys','193_toys','194_toys','195_toys','196_toys','197_toys','198_toys','199_toys','200_toys','201_toys','202_toys','203_toys','204_toys','205_toys','206_toys','207_toys','208_toys','209_toys','210_toys','211_toys','212_toys','213_toys','214_toys','215_toys','216_toys','217_toys','219_toys','220_toys','221_toys','222_toys','223_toys','224_toys','225_toys','226_toys','227_toys','228_toys','229_toys','230_toys','231_toys','232_toys','233_toys','235_toys','236_toys','237_toys','241_toys','242_toys','243_toys','246_toys','250_toys','251_toys','252_toys','253_toys','255_toys','256_toys','257_toys','259_toys','260_toys','261_toys','262_toys','263_toys','266_toys','268_toys','270_toys','271_toys','272_toys','273_toys','274_toys','332_toys','381_toys','388_toys','409_toys','424_toys','451_toys','454_toys','459_toys','460_toys','462_toys','463_toys','464_toys','465_toys','468_toys','469_toys','471_toys','474_toys','477_toys','478_toys','479_toys','481_toys','482_toys','484_toys','489_toys','490_toys','491_toys','492_toys','493_toys','497_toys','504_toys','514_toys','516_toys','517_toys','521_toys','522_toys','523_toys','524_toys','542_toys','545_toys','546_toys','548_toys','549_toys','550_toys','552_toys','553_toys','554_toys','567_toys','576_toys','580_toys','581_toys','600_toys','601_toys','604_toys','607_toys','608_toys','609_toys','610_toys','611_toys','616_toys','617_toys','625_toys','626_toys','627_toys','628_toys','629_toys','632_toys','636_toys','637_toys','641_toys','645_toys','648_toys','653_toys','661_toys','662_toys','663_toys','664_toys','665_toys','667_toys','669_toys','671_toys','674_toys','678_toys','679_toys','683_toys','684_toys','685_toys','686_toys','701_toys','703_toys','707_toys','710_toys','711_toys','712_toys','713_toys','714_toys','715_toys','716_toys','717_toys','718_toys','719_toys','720_toys','721_toys','722_toys','723_toys','724_toys','730_toys','732_toys','733_toys','735_toys','737_toys','738_toys','740_toys','741_toys','742_toys','743_toys','746_toys','751_toys','757_toys','758_toys','759_toys','763_toys','764_toys','247_toys','248_toys','254_toys','326_toys','327_toys','328_toys','329_toys','330_toys','331_toys','333_toys','334_toys','335_toys','336_toys','337_toys','338_toys','339_toys','340_toys','341_toys','342_toys','343_toys','344_toys','345_toys','346_toys','347_toys','348_toys','349_toys','350_toys','351_toys','352_toys','353_toys','354_toys','355_toys','356_toys','357_toys','358_toys','359_toys','360_toys','361_toys','362_toys','363_toys','364_toys','365_toys','366_toys','367_toys','368_toys','369_toys','370_toys','371_toys','372_toys','373_toys','374_toys','375_toys','376_toys','377_toys','378_toys','379_toys','380_toys','382_toys','383_toys','384_toys','385_toys','386_toys','387_toys','389_toys','390_toys','391_toys','392_toys','393_toys','394_toys','395_toys','396_toys','397_toys','398_toys','399_toys','400_toys','401_toys','402_toys','403_toys','404_toys','405_toys','406_toys','407_toys','408_toys','410_toys','411_toys','412_toys','413_toys','414_toys','415_toys','416_toys','417_toys','418_toys','420_toys','421_toys','422_toys','423_toys','425_toys','449_toys','450_toys','453_toys','455_toys','456_toys','457_toys','461_toys','466_toys','467_toys','472_toys','473_toys','476_toys','483_toys','486_toys','494_toys','495_toys','496_toys','498_toys','499_toys','500_toys','501_toys','505_toys','506_toys','507_toys','508_toys','509_toys','510_toys','511_toys','518_toys','520_toys','558_toys','559_toys','563_toys','564_toys','565_toys','566_toys','575_toys','603_toys','612_toys','615_toys','619_toys','634_toys','635_toys','638_toys','639_toys','644_toys','646_toys','647_toys','650_toys','654_toys','655_toys','659_toys','660_toys','668_toys','670_toys','673_toys','675_toys','676_toys','677_toys','680_toys','681_toys','694_toys','695_toys','696_toys','698_toys','699_toys','700_toys','708_toys','709_toys','725_toys','728_toys','729_toys','731_toys','736_toys','747_toys','752_toys','755_toys','756_toys','760_toys','773_toys'],
+      'hash_database':'0c898186ee9399014991a56d68316130-c4c5f09085e71ac5ec9d3485d4388b7f-v5',
+      'card_url_pattern':'listing_8157b19b_3681_43fb_ad9f_948a4057a24b/card.html?t=fbc70e409ab9d2e9333c153254018abc&id=',
+      'card_json_pattern':'db/{{key_id}}/inf.json',
+      'range_page':3,
+      'current_listing_url':'listing_8157b19b_3681_43fb_ad9f_948a4057a24b/listing.html',
+      'pattern_url_thumbnail':'db/{{key_id}}/thumbnail_small'
+  };
+
+  let trMessages = {
+      'TR_SEARCH_LABEL':"Investigación en curso",
+      'TR_NO_RESULT_FOUND':"No se han encontrado resultados"
+  };
+
+
+
+    var nmtMobile = new NumentoMobileManager();
+    nmtMobile.setListingParameters(filterCurrentInfos);
+
+
+
+    var nmt_gui_search = new NumentoGuiFtSearch();
+    nmt_gui_search.setInputSearchSelector("#search_input");
+
+    var engine_search = new IntuisphereFtSearch({
+      'hash_database':"0c898186ee9399014991a56d68316130",
+      'hash_js':"21e07f04cc59716438a9049701bf4a7d",
+      'json_index':"../db/nmt_index.json"
+    });
+
+    engine_search.setRestrictionKeys(filterCurrentInfos.list_ids);
+    
+    nmt_gui_search.setEngine(engine_search);
+
+    document.addEventListener("DOMContentLoaded", function() {
+      nmt_gui_search.init();
+
+      nmtMobile.initListing();
+    });
+
+
+    if (location.hostname.length==0)
+    {
+      alert("Este sitio sólo funciona si se publica en un servidor web");
+    }
+</script>
+
+</head>
+<body>
+
+<div class="listing_body">
+
+<a class="title" href='index.html'>
+  <div class='title_icon' ><img  style="width:5vw;" src="res/img/logo.svg"></div>
+  <img  style="width:3vw;" class='arrow_back'  src="res/img/arrow_left.svg">
+  <div class='title_label'>Ordenados por tipo</div>
+</a>
+
+  <section class="section_search_input">
+      <input type="search" id="search_input" placeholder="Buscar en">
+  </section>
+
+  <section class="pages">
+      <a class='page_btn'>0</a>
+  </section>
+ <div class='message_item'></div>
+  <div class='content'>
+        <a class="item" href="">
+            <div class="thumbnail"><img class="portrait" src="" /></div>
+            <div class='item_all_labels'>
+              <div class='item_label'>-</div>
+              <div class='item_sub_label'></div>
+            </div>
+            <img  style="width:5vw;" class="arrow_open"  src="res/img/arrow_right.svg">
+        </a>
+
+  </div>
+
+    <section class="pages">
+        <a class='page_btn'>0</a>
+    </section>
+<br>
+</div>
+</body>
+</html>
